@@ -1,0 +1,15 @@
+C:\Users\Руслан\Desktop\семинар\Seminar6\Then\bin\Debug\net6.0\Then.exe
+C:\Users\Руслан\Desktop\семинар\Seminar6\Then\bin\Debug\net6.0\Then.deps.json
+C:\Users\Руслан\Desktop\семинар\Seminar6\Then\bin\Debug\net6.0\Then.runtimeconfig.json
+C:\Users\Руслан\Desktop\семинар\Seminar6\Then\bin\Debug\net6.0\Then.dll
+C:\Users\Руслан\Desktop\семинар\Seminar6\Then\bin\Debug\net6.0\Then.pdb
+C:\Users\Руслан\Desktop\семинар\Seminar6\Then\obj\Debug\net6.0\Then.csproj.AssemblyReference.cache
+C:\Users\Руслан\Desktop\семинар\Seminar6\Then\obj\Debug\net6.0\Then.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Руслан\Desktop\семинар\Seminar6\Then\obj\Debug\net6.0\Then.AssemblyInfoInputs.cache
+C:\Users\Руслан\Desktop\семинар\Seminar6\Then\obj\Debug\net6.0\Then.AssemblyInfo.cs
+C:\Users\Руслан\Desktop\семинар\Seminar6\Then\obj\Debug\net6.0\Then.csproj.CoreCompileInputs.cache
+C:\Users\Руслан\Desktop\семинар\Seminar6\Then\obj\Debug\net6.0\Then.dll
+C:\Users\Руслан\Desktop\семинар\Seminar6\Then\obj\Debug\net6.0\refint\Then.dll
+C:\Users\Руслан\Desktop\семинар\Seminar6\Then\obj\Debug\net6.0\Then.pdb
+C:\Users\Руслан\Desktop\семинар\Seminar6\Then\obj\Debug\net6.0\Then.genruntimeconfig.cache
+C:\Users\Руслан\Desktop\семинар\Seminar6\Then\obj\Debug\net6.0\ref\Then.dll
